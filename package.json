@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "dependencies": {
+    "sweetalert2": "^11.7.1"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
